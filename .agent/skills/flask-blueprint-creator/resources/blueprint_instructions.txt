@@ -1,0 +1,4 @@
+Al crear un Blueprint:
+- Siempre usa nombres en minúsculas.
+- Asegúrate de incluir un comentario al inicio explicando la función del módulo.
+- No olvides que cada Blueprint debe tener su propia carpeta.
